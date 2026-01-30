@@ -31,8 +31,7 @@ I have worked on projects that served thousands of users, built scalable applica
 
 <div align="center">
   
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/shahd-badr-1513a2310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YousefMohamed01)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yousefdergham)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-26A5E4?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-badr-1513a2310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+
 
 </div>
