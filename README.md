@@ -31,7 +31,7 @@ I have worked on projects that served thousands of users, built scalable applica
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/Linkedin-26A5E4?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-badr-1513a2310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/Linkedin-26A5E4?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-badr-1513a2310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 </div>
